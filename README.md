@@ -21,7 +21,8 @@
 
 ## 📂 Проекты и лабораторные
 
-OdintsovArtemiy/network-labs
+https://github.com/OdintsovArtemiy/network-labs
+
 > *Репозитории постепенно наполняются. Вот что уже есть и планируется:*
 
 ---
