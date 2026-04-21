@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Привет, я Артемий Одинцов
 
-<!--
-**OdintsovArtemiy/OdintsovArtemiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Студент УрФУ** | Институт радиоэлектроники и информационных технологий  
+🔐 **Направление:** Информационная безопасность  
+💼 **Опыт:** Системный администратор в **Ростелекоме** (8 месяцев)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мои навыки
+
+| Область | Что умею |
+|---------|----------|
+| 🌐 **Сети** | VLAN, OSI, TCP/IP, IP/MAC-адресация, подсети, NAT |
+| 📡 **Протоколы** | DHCP, DNS, HTTP, SMTP/POP3, SNMP |
+| 🖥 **Оборудование** | Cisco, D-Link, Eltex, SNR (CLI, резервное копирование конфигов) |
+| 📊 **Мониторинг** | Zabbix (триггеры, алерты, шаблоны), Cacti |
+| 🔧 **Администрирование** | Настройка ПК, VPN, видеонаблюдение, МФУ |
+| 🐧 **ОС** | Linux (базовые команды, логи, сеть) |
+
+---
+
+## 📂 Проекты и лабораторные
+
+> *Репозитории постепенно наполняются. Вот что уже есть и планируется:*
+
+---
+
+## 📫 Контакты
+
+- 📧 **Email:** gegnen5@gmail.com
+- 📱 **Телефон:** +7 (912) 238-05-01
+- 💬 **Telegram:** @hexlg
+
