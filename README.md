@@ -23,6 +23,8 @@
 
 https://github.com/OdintsovArtemiy/network-labs
 
+https://github.com/OdintsovArtemiy/rundiary
+
 > *Репозитории постепенно наполняются. Вот что уже есть и планируется:*
 
 ---
